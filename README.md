@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I'm a passionate software developer with front-end skills in HTML, CSS, and JavaScript, as well as back-end experience with Python. Here you'll find examples of my work and how I apply my knowledge to create innovative solutions.🚀</h3>
+<h3 align="center">I'm a passionate software developer student with front-end skills in HTML, CSS, and JavaScript, as well as back-end experience with Python. Here you'll find examples of my work and how I apply my knowledge to create innovative solutions.🚀</h3>
+<h3 align="center">Proyects done:</h3>
+<p>I've been working from last two years on many activites at the school.</p>
+<p>This are some of them:</p>
+<span>
+  <h4>Slot machine</h4>
+  
+</span>
+<span>
+  <h4>CSS Transitions</h4>
+  
+</span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/davidgr_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidgr_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/david-guerrero-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-guerrero-rodriguez" height="30" width="40" /></a>
 </p>
