@@ -22,10 +22,12 @@ Soy un desarrollador web apasionado por crear experiencias digitales innovadoras
 * JavaScript
 * React
 * Node.js
-* [Insignia de HackerRank]
+* Salesforce
+![image](https://github.com/user-attachments/assets/bd1a2fa4-d459-46e5-be0a-c7118703db07)
+
 
 
 ## Contacto ✉️
 
-* Correo electrónico: [tu correo electrónico]
-* LinkedIn: [tu perfil de LinkedIn]
+* <i class="fa-solid fa-envelope"></i>Correo electrónico: davidguerrerorodriguez.21@gmail.com
+* <i class="fa-brands fa-linkedin"></i>LinkedIn: www.linkedin.com/in/david-guerrero-rodriguez
